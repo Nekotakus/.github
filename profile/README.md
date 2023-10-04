@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nekotakus/.github/main/GitHub%20Banner.png">
+<img src="https://raw.githubusercontent.com/Nekotakus/.github/main/1st%20Banner.png">
 </p>
 <p align="center">   
     <img src="https://raw.githubusercontent.com/Nekotakus/.github/main/2nd%20Banner.png">
